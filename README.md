@@ -1,5 +1,4 @@
-## Toko Batik Online
-## Tanpa Admin
+## Toko Batik Online Tanpa Admin
 
 ## Screensoot
 
